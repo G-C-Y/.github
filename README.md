@@ -1,2 +1,0 @@
-# notes.github
-self-introduction
