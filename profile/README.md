@@ -7,12 +7,7 @@ This organization is dedicated to developing and maintaining various open-source
 
 
 
-
-------
-
-
-
-### Project Catalog
+## Project Catalog
 
 Here are some key projects within the OpenNotes organization:
 
@@ -32,11 +27,9 @@ Here are some key projects within the OpenNotes organization:
 
 Please note that these projects represent the core offerings of our organization, and we have several other exciting projects in progress. If you're interested in exploring our organization's projects further, we invite you to visit our GitHub homepage for more information.
 
-------
 
 
-
-### How to Contribute
+## How to Contribute
 
 We welcome anyone to join the OpenNotes open-source project organization and contribute to our projects! Here are some ways you can get involved:
 
@@ -56,11 +49,9 @@ We welcome anyone to join the OpenNotes open-source project organization and con
 
 Please refer to our contribution guidelines (CONTRIBUTING.md) for more detailed information on how to get involved.
 
-------
 
 
-
-### Contact Us
+## Contact Us
 
 If you have any questions or would like to engage with us, you can reach out through the following channels:
 
@@ -72,11 +63,9 @@ If you have any questions or would like to engage with us, you can reach out thr
 
 Join our Discord server to interact with us.
 
-------
 
 
-
-### License
+## License
 
 Projects within the OpenNotes organization are released under open-source licenses. Specific license information can be found in each project's repository.
 
