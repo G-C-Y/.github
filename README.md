@@ -1,2 +1,2 @@
-# notes.github
+# .github
 self-introduction
